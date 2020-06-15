@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfunding-parent.iml" filepath="$PROJECT_DIR$/Atcrowdfunding-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingbean/Atcrowdfundingbean.iml" filepath="$PROJECT_DIR$/Atcrowdfundingbean/Atcrowdfundingbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingcommon/Atcrowdfundingcommon.iml" filepath="$PROJECT_DIR$/Atcrowdfundingcommon/Atcrowdfundingcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingmain/Atcrowdfundingmain.iml" filepath="$PROJECT_DIR$/Atcrowdfundingmain/Atcrowdfundingmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingmanagerapi/Atcrowdfundingmanagerapi.iml" filepath="$PROJECT_DIR$/Atcrowdfundingmanagerapi/Atcrowdfundingmanagerapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingmanagerimpl/Atcrowdfundingmanagerimpl.iml" filepath="$PROJECT_DIR$/Atcrowdfundingmanagerimpl/Atcrowdfundingmanagerimpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingpotalapi/Atcrowdfundingpotalapi.iml" filepath="$PROJECT_DIR$/Atcrowdfundingpotalapi/Atcrowdfundingpotalapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atcrowdfundingpotalimpl/Atcrowdfundingpotalimpl.iml" filepath="$PROJECT_DIR$/Atcrowdfundingpotalimpl/Atcrowdfundingpotalimpl.iml" />
+    </modules>
+  </component>
+</project>
